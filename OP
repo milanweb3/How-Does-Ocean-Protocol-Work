@@ -1,0 +1,7 @@
+"Data assets are connected with blockchain and decentralized finance tools through datatokens. These are ERC-20 tokens which represent the right to access data. Providers publish data services by deploying and minting datatokens, while consumers spend datatokens to access those services. A consumer sends 1.0 datatokens to a data provider in order to access a dataset. They could also send 1.0 datatokens to someone else to give them access.
+
+When datatokens are listed on the Ocean Market, the publisher can set a fixed price or use automated price discovery which is supported by an automated market maker. The AMM pools are powered by Balancer and contain both the datatoken and OCEAN as liquidity. Price is based on the ratio between the numbers of the two tokens. If the proportion of datatokens in the pool decreases, their price goes up, and vice versa. Thus, datatoken price is auto-adjusted.
+
+OCEAN holders can curate data by staking their OCEAN tokens in a liquidity pool. This enables them to earn fees but also carries the risk of impermanent loss and rug pulls.
+
+Datatokens bridge the gap between the data industry and DeFi. As they are ERC-20 tokens, they can be stored in crypto wallets, traded on crypto exchanges, transferred to a decentralized autonomous organization, and used to perform other DeFi operations."
